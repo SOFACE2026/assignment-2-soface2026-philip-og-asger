@@ -1,4 +1,4 @@
-#include "ShoeShop_Struct.h"
+#include "1_ShoeShop_Struct.h"
 #include <stdbool.h>
 
 void ShoeShop_Struct(int size, struct ShoeShop_Struct* shop){ // cunstructor

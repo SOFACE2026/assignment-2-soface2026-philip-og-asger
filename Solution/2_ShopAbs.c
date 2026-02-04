@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "ShopAbs.h"
+#include "2_ShopAbs.h"
 
 // implementation of the functions from the abstract struct shop
 
